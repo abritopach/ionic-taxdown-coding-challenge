@@ -1,0 +1,23 @@
+{
+	"questions": [{
+			"id": 0,
+			"type": "multiselection",
+			"text": "¿Cuáles son los puntos cardinales?",
+			"options": [
+				"Norte",
+				"Sur",
+				"Este",
+				"Oeste"
+			]
+		},
+		{
+			"id": 1,
+			"type": "yesno",
+			"text": "¿Te gusta el fútbol?",
+			"options": [
+				"Si",
+				"No"
+			]
+		}
+	]
+}
